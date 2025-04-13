@@ -111,7 +111,7 @@ A ready-to-use Postman collection is included.
 2. Set variables:
    - `{{base_url}}` → `http://127.0.0.1:8000`
    - `{{token}}` → From login response
-3. Use `Accept: application/json` is already set.
+3. Use `Accept: application/json` in header.
 
 ---
 
